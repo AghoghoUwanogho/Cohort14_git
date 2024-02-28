@@ -1,4 +1,6 @@
 mango - 2cad
+apple - 4cad
+pawpaw - 3 cad
 orange - 5 cad
 Pineapple - 15 cad
 
