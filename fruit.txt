@@ -4,3 +4,4 @@ add fruits
 mango
 apple
 pineapple
+Avocado
